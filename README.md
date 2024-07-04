@@ -15,7 +15,7 @@ Florence-2 is a state-of-the-art model designed to handle a wide range of image 
 
 The project is implemented in a Google Colab notebook to take advantage of GPU acceleration for efficient processing. You can access and run the notebook directly in Colab using the following link:
 
-[Open in Colab](https://github.com/ibad321/Florence-2-Model-for-Cv-task)
+[Open in Colab](https://github.com/ibad321/Florence-2-Model-for-Cv-task/blob/main/florence_2_model.ipynb)
 
 ## Getting Started
 
